@@ -1,5 +1,5 @@
-Pokemom Online Fangame Server
-
+POKEMON ONLINE FANGAME
+Pokemon based online  fan game where you can catch, trade and battle your own pokemon online. Compete with friends.
 
 ![image (7)](https://github.com/user-attachments/assets/8f894e79-236f-4427-aec4-57dfca78e097)
 ![image (8)](https://github.com/user-attachments/assets/e820272f-4290-4b00-a0e2-1d2b402271ff)
